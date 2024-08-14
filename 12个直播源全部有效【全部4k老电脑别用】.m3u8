@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 group-title="浙江台" tvg-id="浙江钱江都市频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619032635173.jpg",浙江钱江都市频道
+http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="浙江经视" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619032916811.jpg",浙江经视
+http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="浙江教育科技频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619033104162.jpg",浙江教育科技频道
+http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="浙江电视台影视娱乐频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619033257904.jpg",浙江电视台影视娱乐频道
+http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="浙江6频道民生休闲频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619033600521.jpg",浙江6频道民生休闲频道
+http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="浙江新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2021/0210/992e67a3af8522d5c5c6f17dbb38442f.png",浙江新闻频道
+http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="浙江电视台少儿频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619033946335.jpg",浙江电视台少儿频道
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="好易购电视购物" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619034500244.jpg",好易购电视购物
+http://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="浙江国际频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0921/cb29f53445eee372c9015525d826d87e.jpg",浙江国际频道
+http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="杭州综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619034738537.jpg",杭州综合频道
+https://live.hoolo.tv/hztv1/playlist.m3u8?auth_key=1723272388-0-0-7d44ca05c83dfe1f7a20c815d39eebd6
+#EXTINF:-1 group-title="浙江台" tvg-id="杭州西湖明珠频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619034941446.jpg",杭州西湖明珠频道
+https://live.hoolo.tv/hztv2/playlist.m3u8?auth_key=1723654488-0-0-acff398ec1d9d2ed6cd67814fb7c6962
+#EXTINF:-1 group-title="浙江台" tvg-id="杭州生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619035920539.jpg",杭州生活频道
+https://live.hoolo.tv/hztv3/playlist.m3u8?auth_key=1723272401-0-0-a596ea9a0196f612dabfe95793374005
+#EXTINF:-1 group-title="浙江台" tvg-id="杭州影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619035441577.jpg",杭州影视频道
+https://live3.hoolo.tv/hztv4/playlist.m3u8?auth_key=1723272408-0-0-44b1db1d4adb33476608bfffa87dc6a2
+#EXTINF:-1 group-title="浙江台" tvg-id="杭州5套青少体育频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619040207771.jpg",杭州5套青少体育频道
+https://live3.hoolo.tv/hztv5/playlist.m3u8?auth_key=1723271837-0-0-0f004ce7507239f00aea75d57d78a476
+#EXTINF:-1 group-title="浙江台" tvg-id="杭州六频道导视频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0916/small64a85059b28c461737e1d08e0e05d5161505534431.jpg",杭州六频道导视频道
+https://live3.hoolo.tv/hztv6/playlist.m3u8?auth_key=1723272422-0-0-64b172c3da8a736292226cee9ed66eae
+#EXTINF:-1 group-title="浙江台" tvg-id="萧山综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2021/0217/small34f66f075e1514eda32841630d9a9ffd1613546335.jpg",萧山综合频道
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="萧山生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2021/0217/small4a7dc6f71256b877b780197bdff615621613546430.jpg",萧山生活频道
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="余杭新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",余杭新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="余杭未来频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",余杭未来频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="临平新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",临平新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="宁波电视台1套" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/small-nbtv111111111.jpg",宁波电视台1套
+http://liveplay.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1723268866-0-0-84ead91a9d066b8399aeeccb0e0c8e59
+#EXTINF:-1 group-title="浙江台" tvg-id="宁波电视台2套" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/small-nbtv22222.jpg",宁波电视台2套
+http://liveplay.nbtv.cn/live/nbtv2_md.m3u8?auth_key=1723268642-0-0-521c593e3074643754102546528f276c
+#EXTINF:-1 group-title="浙江台" tvg-id="宁波电视台3套" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/small-nbtv333333.jpg",宁波电视台3套
+http://liveplay.nbtv.cn/live/nbtv3_md.m3u8?auth_key=1723268877-0-0-d970ac53babf6e93c1b35ba10ac91e44
+#EXTINF:-1 group-title="浙江台" tvg-id="宁波4套影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/small-nbtv444444.jpg",宁波4套影视频道
+http://liveplay.nbtv.cn/live/nbtv4_md.m3u8?auth_key=1723267898-0-0-5578e2f268abba598457ed99c7265316
+#EXTINF:-1 group-title="浙江台" tvg-id="象山电视台新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2021/0217/smalld3574274d145da0a737cc34290abcd8b1613543332.jpg",象山电视台新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="余姚新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2021/0217/small647270a980efd92a229c0cf961b76a801613546617.jpg",余姚新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="余姚姚江文化频道" tvg-logo="http://tv.haoqu99.com/d/file/2021/0217/small6b718f0bf9eb6e04c2a20eb5c85271051613546702.jpg",余姚姚江文化频道
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="文成新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",文成新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="苍南新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",苍南新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="永嘉新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",永嘉新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="绍兴文化影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619024154424.jpg",绍兴文化影视频道
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="绍兴电视台公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619113053781.jpg",绍兴电视台公共频道
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="绍兴新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1205/8b4bcdec06d0ae3d219511dd0ed81997.jpg",绍兴新闻综合频道
+http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="新昌新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",新昌新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="新昌生活频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",新昌生活频道
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="上虞新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",上虞新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="上虞文化影视频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",上虞文化影视频道
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="上虞新商都频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",上虞新商都频道
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="嵊州新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",嵊州新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="东阳影视生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0706/smallcfc4b13c3851cdb698b81e4ada581d681530885220.jpg",东阳影视生活频道
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="武义新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",武义新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="兰溪新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",兰溪新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="龙游新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",龙游新闻综合频道
+https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="龙游生活娱乐频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",龙游生活娱乐频道
+https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="开化新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",开化新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="开化国家公园频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",开化国家公园频道
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="衢江新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",衢江新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="平湖新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0712/small6a60efc7be41fa4d435e81d808fbf290.jpg",平湖新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="平湖民生休闲频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0712/small5e203aa5ffb42c51a79ce7dee5525c6f.jpg",平湖民生休闲频道
+http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="青田电视台" tvg-logo="http://tv.haoqu99.com/d/file/2021/0217/smalla9323f41c3a7a5550006a81cb4cca5181613546170.jpg",青田电视台
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="遂昌新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",遂昌新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="松阳新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",松阳新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="庆元新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",庆元新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="缙云新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",缙云新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="龙泉新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",龙泉新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="云和新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",云和新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="普陀电视台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0605/smallb4e1ec6e16e1fc3ad2d25a7ac8b5034b1528190492.jpg",普陀电视台
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="嵊泗新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",嵊泗新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
