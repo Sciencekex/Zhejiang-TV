@@ -20,7 +20,7 @@ http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title="浙江台" tvg-id="杭州综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619034738537.jpg",杭州综合频道
 https://live.hoolo.tv/hztv2/sd/live.m3u8?auth_key=1723690229-0-0-263334e3d892ee1dcbdf715a2ff81967
 #EXTINF:-1 group-title="浙江台" tvg-id="杭州西湖明珠频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619034941446.jpg",杭州西湖明珠频道
-https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1723700792-0-0-c3c874878ee8e8e1eb55fa3221dd3377
+https://live.hoolo.tv/hztv2/sd/live.m3u8?auth_key=1723725734-0-0-3e22f66afca61f66052054b1b6527967
 #EXTINF:-1 group-title="浙江台" tvg-id="杭州生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619035920539.jpg",杭州生活频道
 https://live.hoolo.tv/hztv3/sd/live.m3u8?auth_key=1723690607-0-0-005a7f13010fbb6222399bacdaeda32f
 #EXTINF:-1 group-title="浙江台" tvg-id="杭州影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619035441577.jpg",杭州影视频道
