@@ -18,7 +18,7 @@ http://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
 #EXTINF:-1 group-title="浙江台" tvg-id="浙江国际频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0921/cb29f53445eee372c9015525d826d87e.jpg",浙江国际频道
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title="浙江台" tvg-id="杭州综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619034738537.jpg",杭州综合频道
-https://live.hoolo.tv/hztv1/playlist.m3u8?auth_key=1723272388-0-0-7d44ca05c83dfe1f7a20c815d39eebd6
+https://live.hoolo.tv/hztv2/sd/live.m3u8?auth_key=1723690229-0-0-263334e3d892ee1dcbdf715a2ff81967
 #EXTINF:-1 group-title="浙江台" tvg-id="杭州西湖明珠频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619034941446.jpg",杭州西湖明珠频道
 https://live.hoolo.tv/hztv2/playlist.m3u8?auth_key=1723654488-0-0-acff398ec1d9d2ed6cd67814fb7c6962
 #EXTINF:-1 group-title="浙江台" tvg-id="杭州生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619035920539.jpg",杭州生活频道
