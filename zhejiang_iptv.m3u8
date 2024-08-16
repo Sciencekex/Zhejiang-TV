@@ -19,8 +19,6 @@ http://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title="浙江台" tvg-id="杭州综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619034738537.jpg",杭州综合频道
 https://live.hoolo.tv/hztv2/sd/live.m3u8?auth_key=1723690229-0-0-263334e3d892ee1dcbdf715a2ff81967
-#EXTINF:-1 group-title="浙江台" tvg-id="杭州西湖明珠频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619034941446.jpg",杭州西湖明珠频道
-https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1723822544-0-0-4ce89fd1d5bed4d6c7870535d2d8074a
 #EXTINF:-1 group-title="浙江台" tvg-id="杭州生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619035920539.jpg",杭州生活频道
 https://live.hoolo.tv/hztv3/sd/live.m3u8?auth_key=1723690607-0-0-005a7f13010fbb6222399bacdaeda32f
 #EXTINF:-1 group-title="浙江台" tvg-id="杭州影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619035441577.jpg",杭州影视频道
@@ -29,6 +27,8 @@ https://live3.hoolo.tv/hztv4/playlist.m3u8?auth_key=1723272408-0-0-44b1db1d4adb3
 https://live3.hoolo.tv/hztv5/playlist.m3u8?auth_key=1723271837-0-0-0f004ce7507239f00aea75d57d78a476
 #EXTINF:-1 group-title="浙江台" tvg-id="杭州六频道导视频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0916/small64a85059b28c461737e1d08e0e05d5161505534431.jpg",杭州六频道导视频道
 https://live3.hoolo.tv/hztv6/playlist.m3u8?auth_key=1723272422-0-0-64b172c3da8a736292226cee9ed66eae
+#EXTINF:-1 group-title="浙江台" tvg-id="杭州西湖明珠频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619034941446.jpg",杭州西湖明珠频道
+https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1723822544-0-0-4ce89fd1d5bed4d6c7870535d2d8074a
 #EXTINF:-1 group-title="浙江台" tvg-id="萧山综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2021/0217/small34f66f075e1514eda32841630d9a9ffd1613546335.jpg",萧山综合频道
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 #EXTINF:-1 group-title="浙江台" tvg-id="萧山生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2021/0217/small4a7dc6f71256b877b780197bdff615621613546430.jpg",萧山生活频道
